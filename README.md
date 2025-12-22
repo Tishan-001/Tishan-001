@@ -126,9 +126,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/YOUR_LINK)
-[![Email](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&style=for-the-badge)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?logo=github&style=for-the-badge)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/tishanshamika)
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&style=for-the-badge)](mailto:tishan.shamika.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?logo=github&style=for-the-badge)](https://github.com/Tishan-001)
 
 </div>
 
