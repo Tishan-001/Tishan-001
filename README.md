@@ -20,42 +20,42 @@
 ### **Frontend Development**
 | Technologies |
 |-------------|
-| <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"> 
 <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white"> |
+<img src="https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white">
 
 ---
 
 ### **Backend Development**
 | Technologies |
 |-------------|
-| <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white"> |
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white">
 
 ---
 
 ### **Databases**
 | Technologies |
 |-------------|
-| <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"> |
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
 
 ---
 
 ### **DevOps & Cloud**
 | Technologies |
 |-------------|
-| <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white"> |
+<img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white">
 
 </div>
 </details>
