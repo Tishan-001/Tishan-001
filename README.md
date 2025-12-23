@@ -149,10 +149,11 @@ class Developer {
 new Developer().build();
 ```
 
-<div align="center" style="margin-top: 40px; padding: 20px; border-top: 2px solid #0089D6">
-  <h3>💡 Engineering Philosophy </h3>
-  <p style="font-style: italic; color: #00b4d8; max-width: 600px; margin: 0 auto">
-  "Write clean code, automate everything, and deploy with confidence."
-  </p>
-  </p>- Tishan Shamika -</p>
+<div align="center">
+
+### 💡 Engineering Philosophy
+
+*"Write clean code, automate everything, and deploy with confidence."*  
+— **Tishan Shamika**
+
 </div>
