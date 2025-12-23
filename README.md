@@ -148,6 +148,7 @@ class Developer {
 
 new Developer().build();
 ```
+![Visitor Count](https://komarev.com/ghpvc/?username=Tishan-001&label=Profile+Views&color=0089D6&style=flat-square)
 
 <div align="center">
 
